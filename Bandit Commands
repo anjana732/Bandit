@@ -1,0 +1,1 @@
+sort <fileName> | uniq -u : This command sorts the file and gives the output which has only one count.
