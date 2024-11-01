@@ -1,1 +1,2 @@
 sort <fileName> | uniq -u : This command sorts the file and gives the output which has only one count.
+base64 -d <filenam> : Used the decode the file which is encoded using base64.
